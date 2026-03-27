@@ -1,0 +1,25 @@
+/.docs
+/.cursor
+__pycache__/
+.pytest_cache/
+*.egg-info/
+pyrightconfig.json
+.vscode/
+.env
+dist/
+.coverage
+Makefile
+htmlcov/
+.ruff_cache/
+new/
+dcr/
+.DS_Store
+
+# Generated endpoints file (created by editable install)
+src/golf/_endpoints.py
+build.sh
+.claude
+
+thoughts/
+
+*.code-workspace
